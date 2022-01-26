@@ -25,6 +25,7 @@ module.exports = {
       profileIcon:
         "https://ddragon.leagueoflegends.com/cdn/12.2.1/img/profileicon/578.png",
       summonerName: "Rogelio Twistos",
+      cs: "200 per min",
       isBot: false,
     },
     {
@@ -44,6 +45,7 @@ module.exports = {
       profileIcon:
         "https://ddragon.leagueoflegends.com/cdn/12.2.1/img/profileicon/4748.png",
       summonerName: "ign4444r",
+      cs: "200 per min",
       isBot: false,
     },
     {
@@ -63,6 +65,7 @@ module.exports = {
       profileIcon:
         "https://ddragon.leagueoflegends.com/cdn/12.2.1/img/profileicon/4654.png",
       summonerName: "Rubi lolo",
+      cs: "200 per min",
       isBot: false,
     },
     {
@@ -82,6 +85,7 @@ module.exports = {
       profileIcon:
         "https://ddragon.leagueoflegends.com/cdn/12.2.1/img/profileicon/4410.png",
       summonerName: "Jacosan",
+      cs: "200 per min",
       isBot: false,
     },
     {
