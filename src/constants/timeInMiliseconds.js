@@ -1,0 +1,12 @@
+const TIME_IN_MILISECONDS = {
+  WEEK: 1000 * 60 * 60 * 24 * 7,
+  MONTH: 1000 * 60 * 60 * 24 * 30,
+  THREE_MONTH: 1000 * 60 * 60 * 24 * 90,
+  SIX_MONTH: 1000 * 60 * 60 * 24 * 180,
+  YEAR: 1000 * 60 * 60 * 24 * 365,
+  MAX_SIGNED_INT: 2147483647,
+};
+
+module.exports = {
+  TIME_IN_MILISECONDS,
+};
